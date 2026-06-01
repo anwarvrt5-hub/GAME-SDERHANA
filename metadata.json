@@ -1,0 +1,8 @@
+{
+  "name": "Tetratro",
+  "description": "An elegant, visually polished blocks roguelike game inspired by Balatro, featuring multiple game modes with unique powerups and modifiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
